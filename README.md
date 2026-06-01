@@ -41,11 +41,11 @@
 ```yaml
 name     : Abrar Abir Taseen  [Taseen CR]
 location : Dhaka, Bangladesh
-study    : B.Sc. in CSE @ BRAC University
+study    : B.Sc. in Computer Science & Engineering @ BRAC University
 motto    : iterate(idea) → build(prototype) → break(system) → debug(reality) → repeat()
 ```
 
-**Focus-**
+### Areas of Interest-
 > `Full-stack Web` · `Cross-platform Apps` · `Competitive Programming` · `AI/ML` · `Cybersecurity` · `Robotics & embedded systems`
 
 ---
@@ -62,20 +62,9 @@ motto    : iterate(idea) → build(prototype) → break(system) → debug(realit
 <!-- GITHUB STATS + TROPHIES SIDE BY SIDE -->
 ### 📊 GitHub Stats
 
-<table align="center" width="100%"><tr>
-<td align="center" width="50%">
-
-<img src="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/streak-stats.svg" width="100%" />
-
-</td>
-<td align="center" width="50%">
-
-### 🏆 Trophies
-
-<img src="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/trophies.svg" width="100%" />
-
-</td>
-</tr></table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/streak-stats.svg" width="70%" />
+</p>
 
 ---
 
@@ -83,7 +72,7 @@ motto    : iterate(idea) → build(prototype) → break(system) → debug(realit
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/activity-graph.svg" width="75%" />
+  <img src="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/activity-graph.svg" width="70%" />
 </p>
 
 <!-- CONTRIBUTION SNAKE -->
@@ -91,17 +80,8 @@ motto    : iterate(idea) → build(prototype) → break(system) → debug(realit
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/github-contribution-grid-snake-dark.svg" width="75%" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/TaseenCR/TaseenCR/output/github-contribution-grid-snake-dark.svg" width="70%" />
   </picture>
-</p>
-
----
-
-<!-- DEV QUOTE -->
-### 📖 Dev Philosophy
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
